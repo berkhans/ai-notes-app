@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Notes App 📝
 
 Bu proje React ve Node.js kullanarak yaptığım AI destekli not alma uygulaması. Kullanıcılar notlarını yazabilir ve AI ile özetleyip kategorize edebilir.
@@ -195,3 +196,7 @@ MIT License - İstediğin gibi kullanabilirsin.
 **Not:** Bu benim ilk büyük projem, hatalar olabilir ama öğrenmeye devam ediyorum! 
 
 *"Kod yazmak sanattır, debug etmek ise bilimdir."* 
+=======
+# ai-notes-app
+AI Supported Notes App
+>>>>>>> 2cfa8b473581a0b4e06cf6b590a2b29907aea9bf
