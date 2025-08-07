@@ -199,4 +199,3 @@ MIT License - İstediğin gibi kullanabilirsin.
 =======
 # ai-notes-app
 AI Supported Notes App
->>>>>>> 2cfa8b473581a0b4e06cf6b590a2b29907aea9bf
